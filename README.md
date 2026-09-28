@@ -76,7 +76,7 @@
 **Tech Stack:**  
 `Node.js` `Express.js` `Vue.js` `External APIs`
 
-🔗 Repository: https://github.com/WeiSheng0429
+🔗 Repository: https://github.com/WeiSheng0429/CM3070_NextTrack
 
 ---
 
